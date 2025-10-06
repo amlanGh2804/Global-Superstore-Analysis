@@ -118,8 +118,6 @@ Dataset: Global Superstore (Kaggle)
 
 ### Future Improvements
 
-- Implement an interactive dashboard (e.g., Power BI / Plotly Dash) for dynamic insights
-
 - Explore predictive modeling for customer churn or profit prediction
 
 - Automate RFM segmentation pipeline for real-time reporting
