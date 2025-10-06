@@ -6,6 +6,7 @@ Through exploratory data analysis (EDA), customer segmentation, and time series 
 
 The analysis simulates a real-world business analytics workflow, integrating both descriptive and predictive techniques to support data-driven decision-making.
 
+
 ### Objectives
 
 Understand sales and profitability patterns across regions, categories, and sub-categories
@@ -17,6 +18,7 @@ Evaluate the impact of discounts and shipping efficiency on profit
 Forecast future sales trends using ARIMA time series modeling
 
 Provide strategic recommendations to improve profitability and customer retention
+
 
 ### Dataset Description
 
@@ -32,7 +34,9 @@ Dataset: Global Superstore (Kaggle)
 | Quantity, Shipping Cost | Operational metrics                     |
 | Customer ID, Segment    | Customer-level information              |
 
+
 ### Analysis Workflow
+
 1. Data Preparation
     - Dropped irrelevant columns (e.g., Row ID, Postal Code)
 
@@ -100,16 +104,18 @@ Dataset: Global Superstore (Kaggle)
 
 ### Key Insights
 
-    - Sales vs Profit: The South region, despite high sales, lagged in profitability due to discount and shipping costs.
+- Sales vs Profit: The South region, despite high sales, lagged in profitability due to discount and shipping costs.
 
-    - Category Optimization: Technology products yielded higher margins than Furniture or Office Supplies.
+- Category Optimization: Technology products yielded higher margins than Furniture or Office Supplies.
 
-    - Discount Strategy: Excessive discounting led to profit erosion.
+- Discount Strategy: Excessive discounting led to profit erosion.
 
-    - Customer Retention: A focused strategy for at-risk and win-back segments can improve recurring revenue.
+- Customer Retention: A focused strategy for at-risk and win-back segments can improve recurring revenue.
 
-    - Forecasting Outcome: Expected moderate sales growth trend over the next forecast horizon.
-    
+- Forecasting Outcome: Expected moderate sales growth trend over the next forecast horizon.
+
+
+
 ### Future Improvements
 
 - Implement an interactive dashboard (e.g., Power BI / Plotly Dash) for dynamic insights
@@ -117,6 +123,8 @@ Dataset: Global Superstore (Kaggle)
 - Explore predictive modeling for customer churn or profit prediction
 
 - Automate RFM segmentation pipeline for real-time reporting
+
+
 
 ### Business Recommendations
 
